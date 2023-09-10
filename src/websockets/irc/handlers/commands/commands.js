@@ -1,0 +1,3 @@
+const allCommands = `!commands: !docs [commandName] (for obscure commands), *CHANNEL*: !title, *POINTS*: !get, !points, *MUSIC*: !queue, !track, !tracks, !artists, !genres, !play, !playF !insertF, !skip, *CITATIONS*: !cite, !editc, !deletec, ![citationAuthor], *HEROES*: !value, !guard, !thant, !luna, !fangarm, !res, !shower, !implo, !chain, !armag`
+
+export let commands = () => `!commands: !docs [commandName] (for obscure commands), *CHANNEL*: !title, *POINTS*: !get, !points, *MUSIC*: !queue, !track, !tracks, !artists, !genres, !play, !playF !insertF, !skip, *CITATIONS*: !cite, !editc, !deletec, ![citationAuthor], *HEROES*: !value, !guard, !thant, !luna, !fangarm, !res, !shower, !implo, !chain, !armag`
